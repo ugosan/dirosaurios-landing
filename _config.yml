@@ -18,15 +18,15 @@ enable_smart_app_banner: true # Set to true to show a smart app banner at top of
 
 # Information About Yourself
 your_name: Ugo Sangiorgi
-your_link: https://emilbaehr.com
-your_city: Copenhagen
-email_address: emil.baehr@gmail.com
+your_link: https://ugosan.org
+your_city: Quito
+email_address: ugo@ugosan.org
 facebook_username:
-instagram_username: ebaehr
-twitter_username: ebaehr
-github_username: emilbaehr
+instagram_username: 
+twitter_username: s
+github_username: ugosan
 youtube_username:
-mastodon_link: https://mastodon.social/@ebaehr
+mastodon_link: https://mastodon.social/@ugosan
 
 # Feature List                            Edit, add or remove features to be presented.
 features:
