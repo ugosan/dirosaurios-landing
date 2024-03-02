@@ -7,9 +7,9 @@ include_in_header: false
 **Last updated**  
 September 15 2020
 
-# Privacy Policy for Dirosaurios
+# Privacy Policy for 12 Dinos
 
-Welcome to our Dirosaurios Privacy Policy! We are committed to protecting the privacy of children using our app. Below, we outline how we handle information and assure you that no data is collected from users.
+Welcome to our 12 Dinos Privacy Policy! We are committed to protecting the privacy of children using our app. Below, we outline how we handle information and assure you that no data is collected from users.
 ## 1.0 Information We Collect
 
 We do not collect any personal information from children using our game app.
@@ -29,4 +29,4 @@ As we do not collect any personal information, there is no processing or transfe
 
 We would like to inform you that while we have taken measures to ensure a safe and enjoyable experience for children using our app, we cannot be held liable for any issues arising from the use of our app. Parents or guardians are encouraged to supervise their children while using the app.
 
-Thank you for choosing our Dirosaurios! We hope your child enjoys playing it in a safe and secure environment. If you have any questions or concerns about our privacy practices, please contact us.
+Thank you for choosing our 12 Dinos! We hope your child enjoys playing it in a safe and secure environment. If you have any questions or concerns about our privacy practices, please contact us.

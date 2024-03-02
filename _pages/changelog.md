@@ -10,6 +10,12 @@ Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md
 
 <br>
 
+### `Rebranding`
+# **Version 1.1**
+  - Rebranding the app to "12 Dinos"
+<br>
+
+
 ### `Initial Release`
 # **Version 1.0**
   - Crack dinosaur eggs to discover more than 100 different species.

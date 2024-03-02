@@ -1,4 +1,4 @@
-# Dirosaurios Landing Page
+# 12 Dinos Landing Page
 
 ## License
 [MIT License](LICENSE)
